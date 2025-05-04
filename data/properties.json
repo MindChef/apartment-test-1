@@ -1,0 +1,1409 @@
+[
+  {
+    "complex_info": {
+      "property_name": "AMLI on 2ND",
+      "address": "300 W 2nd St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Modern apartments in the 2nd Street District with convenient access to downtown amenities and Lady Bird Lake.",
+      "setting_location": "Downtown Austin, located in the vibrant 2nd Street District.",
+      "community_amenities": [
+        "Resort-style pool",
+        "State-of-the-art fitness center",
+        "Resident lounge with co-working spaces",
+        "Package lockers",
+        "Controlled access",
+        "Outdoor grilling areas"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free community",
+        "pet_policy": "Pet-friendly with some restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "15 months",
+        "Varies"
+      ],
+      "official_link": "https://www.amli.com/apartments/austin/downtown-austin/amli-on-2nd"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 805",
+        "price": 2950,
+        "available_date": "2025-06-10",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 780,
+        "layout_floor_plan": "Type 1A - See website for details",
+        "unit_features": [
+          "Stainless steel appliances",
+          "Quartz countertops",
+          "In-unit washer and dryer",
+          "Walk-in closet"
+        ],
+        "photos": [],
+        "application_details": "Online application, fee applies, screening criteria on website",
+        "deposit_fees": {
+          "security_deposit": "Varies",
+          "application_fee": 50
+        },
+        "utilities": {
+          "included": [
+            "Trash"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.251294,
+    "lng": -97.720471
+  },
+  {
+    "complex_info": {
+      "property_name": "Hanover Republic Square",
+      "address": "401 Nueces St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Luxury high-rise apartments offering stunning views and premium amenities in downtown Austin.",
+      "setting_location": "Downtown Austin, near Republic Square Park.",
+      "community_amenities": [
+        "Rooftop pool and lounge",
+        "Two-story fitness center",
+        "Resident clubroom",
+        "Conference rooms",
+        "Pet-friendly",
+        "Concierge"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Pets allowed with deposit and monthly fees, breed restrictions apply"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.hanoverrepublicsquare.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 1803",
+        "price": 3850,
+        "available_date": "Immediately",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 850,
+        "layout_floor_plan": "Floor Plan 1F - See website",
+        "unit_features": [
+          "Floor-to-ceiling windows",
+          "Gourmet kitchen",
+          "Spa-inspired bathroom",
+          "In-unit laundry"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply, standard screening",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      },
+      {
+        "unit_identifier": "Unit 2501",
+        "price": 5500,
+        "available_date": "2025-07-01",
+        "unit_type": "2 Bedroom",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "square_footage": 1400,
+        "layout_floor_plan": "Floor Plan 2C - See website",
+        "unit_features": [
+          "Corner unit with panoramic views",
+          "High-end appliances",
+          "Large private balcony",
+          "Walk-in closets"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply, standard screening",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.264824,
+    "lng": -97.735647
+  },
+  {
+    "complex_info": {
+      "property_name": "The Catherine",
+      "address": "214 Lavaca St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Downtown Austin apartments with exceptional amenities and views of Lady Bird Lake.",
+      "setting_location": "Downtown Austin, steps from Lady Bird Lake and the hike and bike trail.",
+      "community_amenities": [
+        "Infinity-edge pool overlooking the lake",
+        "Fitness club with yoga studio",
+        "Sky lounge",
+        "Dog wash station",
+        "Package receiving",
+        "Covered parking"
+      ],
+      "policies": {
+        "smoking_policy": "No smoking",
+        "pet_policy": "Allowed with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.thecatherineaustin.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 1207",
+        "price": 3100,
+        "available_date": "Immediately",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 810,
+        "layout_floor_plan": "Plan 1G - See website",
+        "unit_features": [
+          "Lake views",
+          "Modern kitchen and bath",
+          "In-unit washer and dryer"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Trash"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.255529,
+    "lng": -97.740824
+  },
+  {
+    "complex_info": {
+      "property_name": "70 Rainey",
+      "address": "70 Rainey St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Luxury high-rise living in the vibrant Rainey Street Historic District.",
+      "setting_location": "Rainey Street Historic District, close to bars, restaurants, and Lady Bird Lake.",
+      "community_amenities": [
+        "Elevated pool deck with downtown views",
+        "Fitness center",
+        "Resident lounge",
+        "Concierge",
+        "Pet amenities"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Allowed with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.70rainey.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 2005",
+        "price": 4200,
+        "available_date": "2025-07-01",
+        "unit_type": "2 Bedroom",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_footage": 1250,
+        "layout_floor_plan": "Plan 2B - See website",
+        "unit_features": [
+          "Panoramic city views",
+          "High-end finishes",
+          "Private balcony"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.252471,
+    "lng": -97.724471
+  },
+  {
+    "complex_info": {
+      "property_name": "The Independent",
+      "address": "301 West Ave, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Austin's iconic residential tower offering unparalleled luxury and amenities.",
+      "setting_location": "Downtown Austin, near Shoal Creek and Lady Bird Lake.",
+      "community_amenities": [
+        "Two levels of amenities",
+        "Sky lounge with pool",
+        "Fitness center",
+        "Guest suites",
+        "Dog run and spa",
+        "Concierge"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Allowed with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.theindependentaustin.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 4501",
+        "price": 6500,
+        "available_date": "Varies",
+        "unit_type": "2 Bedroom",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "square_footage": 1600,
+        "layout_floor_plan": "See website for floor plans",
+        "unit_features": [
+          "Expansive city and lake views",
+          "Premium interior finishes",
+          "Large private balcony"
+        ],
+        "photos": [],
+        "application_details": "Contact leasing office for details",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.277176,
+    "lng": -97.726353
+  },
+  {
+    "complex_info": {
+      "property_name": "The Ashton",
+      "address": "101 Colorado St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Luxury apartments with a central downtown location and sophisticated amenities.",
+      "setting_location": "Downtown Austin, in the central business district.",
+      "community_amenities": [
+        "Rooftop pool",
+        "Fitness center",
+        "Resident lounge",
+        "Concierge",
+        "Controlled access"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Allowed with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.theashton.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 1002",
+        "price": 3600,
+        "available_date": "Immediately",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 800,
+        "layout_floor_plan": "Plan 1A - See website",
+        "unit_features": [
+          "Modern kitchen and bath",
+          "Walk-in closet",
+          "City views"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Trash"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.254,
+    "lng": -97.726
+  },
+  {
+    "complex_info": {
+      "property_name": "Northshore",
+      "address": "110 San Antonio St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "High-rise luxury apartments with stunning views of Lady Bird Lake and downtown.",
+      "setting_location": "Downtown Austin, near Lady Bird Lake and the 2nd Street District.",
+      "community_amenities": [
+        "8th floor pool deck",
+        "Elite fitness club",
+        "Media room",
+        "Conference rooms",
+        "Pet-friendly with dog park",
+        "24-hour concierge"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Allowed with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.northshoreaustin.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 1805",
+        "price": 4500,
+        "available_date": "2025-07-15",
+        "unit_type": "2 Bedroom",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_footage": 1300,
+        "layout_floor_plan": "Plan 2D - See website",
+        "unit_features": [
+          "Lake and city views",
+          "Engineered hardwood floors",
+          "Spa-inspired bathrooms"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.255059,
+    "lng": -97.741176
+  },
+  {
+    "complex_info": {
+      "property_name": "Fifth & West Residences",
+      "address": "501 West Ave, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Contemporary luxury residences with exceptional amenities and downtown convenience.",
+      "setting_location": "Downtown Austin, at the intersection of 5th and West.",
+      "community_amenities": [
+        "Sky deck with pool",
+        "Fitness studio",
+        "Resident lounge",
+        "Guest parking",
+        "Pet-friendly"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Allowed with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.5thandwest.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 1406",
+        "price": 4800,
+        "available_date": "Immediately",
+        "unit_type": "2 Bedroom",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_footage": 1200,
+        "layout_floor_plan": "Plan 2A - See website",
+        "unit_features": [
+          "High ceilings",
+          "Modern design and finishes",
+          "City views"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.265765,
+    "lng": -97.739412
+  },
+  {
+    "complex_info": {
+      "property_name": "Seaholm Residences",
+      "address": "222 West Ave, Austin, TX 78701",
+      "property_type": "Condominium (Rentals Available)",
+      "description": "Residential tower at the historic Seaholm Power Plant site, offering urban living with convenient retail.",
+      "setting_location": "Downtown Austin, within the Seaholm District.",
+      "community_amenities": [
+        "Lap pool",
+        "Fitness center",
+        "Resident lounge",
+        "Direct access to Trader Joe's and other retail",
+        "Reserved parking"
+      ],
+      "policies": {
+        "smoking_policy": "Varies by owner/HOA",
+        "pet_policy": "Varies by owner/HOA, generally allowed with restrictions"
+      },
+      "lease_terms": [
+        "Varies (typically 12 months)"
+      ],
+      "official_link": "https://www.seaholmresidences.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 808 (Condo)",
+        "price": 3500,
+        "available_date": "Varies",
+        "unit_type": "Condominium Unit",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 750,
+        "layout_floor_plan": "Varies by unit - See listings",
+        "unit_features": [
+          "Modern finishes",
+          "Concrete floors (in some units)",
+          "Balcony (in some units)"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Typically one month's rent"
+        },
+        "utilities": {
+          "included": [
+            "Some may include trash/sewer"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Internet",
+            "Gas (if applicable)"
+          ]
+        }
+      }
+    ],
+    "lat": 30.268353,
+    "lng": -97.734353
+  },
+  {
+    "complex_info": {
+      "property_name": "The Moderne",
+      "address": "600 W 6th St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Stylish apartments located in the lively West 6th Street area.",
+      "setting_location": "Downtown Austin, on West 6th Street.",
+      "community_amenities": [
+        "Swimming pool",
+        "Fitness center",
+        "Courtyard",
+        "Controlled access"
+      ],
+      "policies": {
+        "smoking_policy": "Varies",
+        "pet_policy": "Pet-friendly with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.themoderneaustin.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 403",
+        "price": 2800,
+        "available_date": "Immediately",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 720,
+        "layout_floor_plan": "See website for floor plans",
+        "unit_features": [
+          "Updated interiors",
+          "Walk-in closet",
+          "Access to West 6th amenities"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Trash"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.254235,
+    "lng": -97.724706
+  },
+  {
+    "complex_info": {
+      "property_name": "Austin Proper Hotel & Residences",
+      "address": "200 Congress Ave, Austin, TX 78701",
+      "property_type": "Residences within Hotel",
+      "description": "Luxury residences with access to the services and amenities of the Austin Proper Hotel.",
+      "setting_location": "Downtown Austin, along Congress Avenue.",
+      "community_amenities": [
+        "Access to Proper Hotel amenities (pools, fitness center, spa, dining)",
+        "Concierge and hotel services",
+        "Valet parking"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Pet-friendly (hotel policy may apply)"
+      },
+      "lease_terms": [
+        "Varies"
+      ],
+      "official_link": "https://www.properhotel.com/austin/residences/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Residence 18A",
+        "price": 7000,
+        "available_date": "Varies",
+        "unit_type": "Luxury Residence",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "square_footage": 1100,
+        "layout_floor_plan": "See brochure/listings for details",
+        "unit_features": [
+          "Designer finishes",
+          "High-end appliances",
+          "Access to hotel services"
+        ],
+        "photos": [],
+        "application_details": "Contact sales or leasing office for details",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Some may be included"
+          ],
+          "tenant_pays": [
+            "Varies"
+          ]
+        }
+      }
+    ],
+    "lat": 30.278118,
+    "lng": -97.730824
+  },
+  {
+    "complex_info": {
+      "property_name": "The Residences at W Austin",
+      "address": "210 Lavaca St, Austin, TX 78701",
+      "property_type": "Condominium (Rentals Available) within Hotel Complex",
+      "description": "Luxury condominiums associated with the W Hotel, offering residents access to hotel amenities.",
+      "setting_location": "Downtown Austin, connected to the W Hotel.",
+      "community_amenities": [
+        "Access to W Hotel amenities (pool, fitness center, spa, bars)",
+        "Whatever/Whenever\u00ae service",
+        "Valet parking"
+      ],
+      "policies": {
+        "smoking_policy": "Varies by owner/HOA",
+        "pet_policy": "Varies by owner/HOA, generally allowed with restrictions"
+      },
+      "lease_terms": [
+        "Varies (often longer-term leases for rentals)"
+      ],
+      "official_link": "[Information likely available through search engines or apartment finders, often managed separately from the hotel]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 2201 (Condo)",
+        "price": 5800,
+        "available_date": "Varies",
+        "unit_type": "Condominium Unit",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "square_footage": 1050,
+        "layout_floor_plan": "Varies by unit - See listings",
+        "unit_features": [
+          "Modern design",
+          "High-end finishes",
+          "Access to W Hotel services"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Typically one month's rent"
+        },
+        "utilities": {
+          "included": [
+            "Some may be included"
+          ],
+          "tenant_pays": [
+            "Varies"
+          ]
+        }
+      }
+    ],
+    "lat": 30.279529,
+    "lng": -97.735294
+  },
+  {
+    "complex_info": {
+      "property_name": "Sabine on 5th",
+      "address": "400 E 5th St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Apartments situated in Austin's vibrant Entertainment District.",
+      "setting_location": "Downtown Austin, in the Entertainment District.",
+      "community_amenities": [
+        "Resort-style pool",
+        "Fitness center",
+        "Clubhouse",
+        "Controlled access"
+      ],
+      "policies": {
+        "smoking_policy": "Varies",
+        "pet_policy": "Pet-friendly with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.sabineon5th.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 702",
+        "price": 2850,
+        "available_date": "Immediately",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 720,
+        "layout_floor_plan": "Plan A1 - See website",
+        "unit_features": [
+          "Modern interiors",
+          "Downtown access",
+          "Walk-in closet"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Trash"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.263059,
+    "lng": -97.724235
+  },
+  {
+    "complex_info": {
+      "property_name": "Cielo",
+      "address": "500 E 4th St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Downtown apartments offering a convenient location and desirable amenities.",
+      "setting_location": "Downtown Austin.",
+      "community_amenities": [
+        "Pool",
+        "Fitness center",
+        "Resident courtyard",
+        "Package receiving"
+      ],
+      "policies": {
+        "smoking_policy": "Varies",
+        "pet_policy": "Pet-friendly with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.cielo-austin.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 515",
+        "price": 2750,
+        "available_date": "2025-06-01",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 700,
+        "layout_floor_plan": "Plan 1B - See website",
+        "unit_features": [
+          "Modern finishes",
+          "Efficient layouts",
+          "Downtown access"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Trash"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.277059,
+    "lng": -97.721529
+  },
+  {
+    "complex_info": {
+      "property_name": "Milago on the Lake",
+      "address": "500 N Shoreline Blvd, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Apartments offering a unique lakeside living experience with easy access to downtown.",
+      "setting_location": "Downtown Austin, located on Lady Bird Lake.",
+      "community_amenities": [
+        "Lakeside pool",
+        "Fitness center",
+        "Clubhouse",
+        "Business center",
+        "Direct access to hike and bike trail"
+      ],
+      "policies": {
+        "smoking_policy": "Varies",
+        "pet_policy": "Pet-friendly with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.milagoonthelake.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 408",
+        "price": 3250,
+        "available_date": "2025-07-01",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 880,
+        "layout_floor_plan": "Plan 1H - See website",
+        "unit_features": [
+          "Lake views",
+          "Private balcony",
+          "Updated kitchen"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Trash"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.250353,
+    "lng": -97.744353
+  },
+  {
+    "complex_info": {
+      "property_name": "The Bowie",
+      "address": "311 Bowie St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Luxury high-rise apartments featuring extensive amenities and panoramic views.",
+      "setting_location": "Downtown Austin, near Whole Foods and various businesses.",
+      "community_amenities": [
+        "Rooftop pool with cabanas",
+        "24/7 fitness center",
+        "Sky lounge",
+        "Dog park and spa",
+        "Concierge",
+        "Package service"
+      ],
+      "policies": {
+        "smoking_policy": "Smoke-free",
+        "pet_policy": "Pet-friendly with restrictions and fees"
+      },
+      "lease_terms": [
+        "12 months",
+        "Varies"
+      ],
+      "official_link": "https://www.thebowieaustin.com/"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Unit 2810",
+        "price": 4000,
+        "available_date": "Immediately",
+        "unit_type": "2 Bedroom",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_footage": 1200,
+        "layout_floor_plan": "Plan 2F - See website",
+        "unit_features": [
+          "City views",
+          "Modern finishes",
+          "In-unit laundry",
+          "Walk-in closets"
+        ],
+        "photos": [],
+        "application_details": "Apply online, fees apply",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Gas",
+            "Internet"
+          ]
+        }
+      }
+    ],
+    "lat": 30.265529,
+    "lng": -97.731765
+  },
+  {
+    "complex_info": {
+      "property_name": "360 Condominiums",
+      "address": "360 Nueces St, Austin, TX 78701",
+      "property_type": "Condominium (Rentals Available)",
+      "description": "A prominent condominium tower in downtown Austin with individual units available for rent.",
+      "setting_location": "Downtown Austin, near Lady Bird Lake and the 2nd Street District.",
+      "community_amenities": [
+        "Pool",
+        "Fitness center",
+        "Clubroom",
+        "Concierge",
+        "Secure parking"
+      ],
+      "policies": {
+        "smoking_policy": "Varies by owner/HOA",
+        "pet_policy": "Varies by owner/HOA, generally allowed with restrictions"
+      },
+      "lease_terms": [
+        "Varies (typically 12 months)"
+      ],
+      "official_link": "[Information often found on real estate listing sites as these are condos, but some may be rentals]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 1509 (Condo)",
+        "price": 3000,
+        "available_date": "Varies",
+        "unit_type": "Condominium Unit",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 850,
+        "layout_floor_plan": "Varies by unit - See listings",
+        "unit_features": [
+          "Downtown views",
+          "Modern kitchen",
+          "Balcony (in many units)"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Typically one month's rent"
+        },
+        "utilities": {
+          "included": [
+            "Some may include trash/sewer"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet",
+            "Gas (if applicable)"
+          ]
+        }
+      }
+    ],
+    "lat": 30.275765,
+    "lng": -97.722471
+  },
+  {
+    "complex_info": {
+      "property_name": "Spring Condominiums",
+      "address": "300 Bowie St, Austin, TX 78701",
+      "property_type": "Condominium (Rentals Available)",
+      "description": "A condominium tower offering urban living with potential rental opportunities.",
+      "setting_location": "Downtown Austin, near Whole Foods.",
+      "community_amenities": [
+        "Rooftop pool",
+        "Fitness center",
+        "Clubroom",
+        "Concierge",
+        "Secure parking"
+      ],
+      "policies": {
+        "smoking_policy": "Varies by owner/HOA",
+        "pet_policy": "Varies by owner/HOA, generally allowed with restrictions"
+      },
+      "lease_terms": [
+        "Varies (typically 12 months)"
+      ],
+      "official_link": "[Information often found on real estate listing sites as these are condos, but some may be rentals]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 1203 (Condo)",
+        "price": 3200,
+        "available_date": "Varies",
+        "unit_type": "Condominium Unit",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 900,
+        "layout_floor_plan": "Varies by unit - See listings",
+        "unit_features": [
+          "Modern finishes",
+          "Balcony",
+          "City views"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Typically one month's rent"
+        },
+        "utilities": {
+          "included": [
+            "Some may include trash/sewer"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet",
+            "Gas (if applicable)"
+          ]
+        }
+      }
+    ],
+    "lat": 30.263765,
+    "lng": -97.744235
+  },
+  {
+    "complex_info": {
+      "property_name": "The Austonian",
+      "address": "200 Congress Ave, Austin, TX 78701",
+      "property_type": "Condominium (Rentals Available)",
+      "description": "One of Austin's tallest and most luxurious residential towers, with some units available for rent.",
+      "setting_location": "Downtown Austin, on Congress Avenue.",
+      "community_amenities": [
+        "10th-floor Poolside Cabanas",
+        "56th-floor Fitness Center",
+        "24/7 Valet Parking",
+        "Concierge",
+        "Dog park"
+      ],
+      "policies": {
+        "smoking_policy": "Varies by owner/HOA",
+        "pet_policy": "Varies by owner/HOA, generally allowed with restrictions"
+      },
+      "lease_terms": [
+        "Varies (typically 12 months or longer)"
+      ],
+      "official_link": "[Information often found on real estate listing sites as these are condos, but some may be rentals]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 3002 (Condo)",
+        "price": 7000,
+        "available_date": "Varies",
+        "unit_type": "Condominium Unit",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "square_footage": 1800,
+        "layout_floor_plan": "Varies by unit - See listings",
+        "unit_features": [
+          "Luxury finishes",
+          "High-end appliances",
+          "Spectacular views"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, extensive screening required",
+        "deposit_fees": {
+          "security_deposit": "Varies, often significant"
+        },
+        "utilities": {
+          "included": [
+            "Some may be included"
+          ],
+          "tenant_pays": [
+            "Varies"
+          ]
+        }
+      }
+    ],
+    "lat": 30.278118,
+    "lng": -97.730824
+  },
+  {
+    "complex_info": {
+      "property_name": "5th Street Commons",
+      "address": "100 E 5th St, Austin, TX 78701",
+      "property_type": "Apartment Complex",
+      "description": "Apartments located in a convenient downtown area.",
+      "setting_location": "Downtown Austin, near 5th Street.",
+      "community_amenities": [
+        "Varies",
+        "Controlled access"
+      ],
+      "policies": {},
+      "lease_terms": [
+        "Varies"
+      ],
+      "official_link": "[Information likely available through search engines or apartment finders]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 305",
+        "price": 2500,
+        "available_date": "Varies",
+        "unit_type": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 700,
+        "layout_floor_plan": "See listings for details",
+        "unit_features": [
+          "Downtown access",
+          "Standard appliances"
+        ],
+        "photos": [],
+        "application_details": "See listings for details",
+        "deposit_fees": {},
+        "utilities": {}
+      }
+    ],
+    "lat": 30.254824,
+    "lng": -97.730706
+  },
+  {
+    "complex_info": {
+      "property_name": "Littlefield Lofts",
+      "address": "200 Congress Ave, Austin, TX 78701",
+      "property_type": "Historic Loft Building (Rentals Available)",
+      "description": "Historic building converted into unique loft apartments in a prime downtown location.",
+      "setting_location": "Downtown Austin, on Congress Avenue.",
+      "community_amenities": [
+        "Historic building features",
+        "Elevator access"
+      ],
+      "policies": {},
+      "lease_terms": [
+        "Varies"
+      ],
+      "official_link": "[Information likely available through search engines or apartment finders, often historic buildings with unique management]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Loft 4B",
+        "price": 3000,
+        "available_date": "Varies",
+        "unit_type": "Loft",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 950,
+        "layout_floor_plan": "Unique loft layouts - See listings",
+        "unit_features": [
+          "Historic details (e.g., exposed brick, large windows)",
+          "Open living space",
+          "Downtown views (in some units)"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Some may be included"
+          ],
+          "tenant_pays": [
+            "Varies"
+          ]
+        }
+      }
+    ],
+    "lat": 30.278118,
+    "lng": -97.730824
+  },
+  {
+    "complex_info": {
+      "property_name": "Avenue Lofts",
+      "address": "100 Congress Ave, Austin, TX 78701",
+      "property_type": "Historic Loft Building (Rentals Available)",
+      "description": "Historic building offering unique loft apartments in a central downtown location.",
+      "setting_location": "Downtown Austin, on Congress Avenue.",
+      "community_amenities": [
+        "Historic building features",
+        "Elevator access"
+      ],
+      "policies": {},
+      "lease_terms": [
+        "Varies"
+      ],
+      "official_link": "[Information likely available through search engines or apartment finders, often historic buildings with unique management]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Loft 5C",
+        "price": 3100,
+        "available_date": "Varies",
+        "unit_type": "Loft",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 1000,
+        "layout_floor_plan": "Unique loft layouts - See listings",
+        "unit_features": [
+          "Historic details",
+          "Open floor plan",
+          "Downtown views (in some units)"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Some may be included"
+          ],
+          "tenant_pays": [
+            "Varies"
+          ]
+        }
+      }
+    ],
+    "lat": 30.251882,
+    "lng": -97.727294
+  },
+  {
+    "complex_info": {
+      "property_name": "The Brown Building",
+      "address": "708 Colorado St, Austin, TX 78701",
+      "property_type": "Historic Building (Rentals Available - Apartments/Offices)",
+      "description": "Historic Brown Building offering apartments and office spaces in downtown Austin.",
+      "setting_location": "Downtown Austin, on Colorado Street.",
+      "community_amenities": [
+        "Historic building features",
+        "Elevator access",
+        "On-site management (may vary for residential)"
+      ],
+      "policies": {},
+      "lease_terms": [
+        "Varies"
+      ],
+      "official_link": "[Information likely available through search engines or apartment finders, often historic buildings with unique management]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 6D (Apartment)",
+        "price": 2800,
+        "available_date": "Varies",
+        "unit_type": "Apartment",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "square_footage": 800,
+        "layout_floor_plan": "See listings for details",
+        "unit_features": [
+          "Historic charm",
+          "Downtown location"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Some may be included"
+          ],
+          "tenant_pays": [
+            "Varies"
+          ]
+        }
+      }
+    ],
+    "lat": 30.257882,
+    "lng": -97.731412
+  },
+  {
+    "complex_info": {
+      "property_name": "One Congress Plaza",
+      "address": "111 Congress Ave, Austin, TX 78701",
+      "property_type": "Condominium (Rentals Available)",
+      "description": "Condominium tower with a central downtown location, with some units available for rent.",
+      "setting_location": "Downtown Austin, on Congress Avenue.",
+      "community_amenities": [
+        "Pool",
+        "Fitness center",
+        "Concierge",
+        "Secure parking"
+      ],
+      "policies": {
+        "smoking_policy": "Varies by owner/HOA",
+        "pet_policy": "Varies by owner/HOA, generally allowed with restrictions"
+      },
+      "lease_terms": [
+        "Varies (typically 12 months)"
+      ],
+      "official_link": "[Information often found on real estate listing sites as these are condos, but some may be rentals]"
+    },
+    "available_units": [
+      {
+        "unit_identifier": "Sample Unit 1001 (Condo)",
+        "price": 3500,
+        "available_date": "Varies",
+        "unit_type": "Condominium Unit",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "square_footage": 900,
+        "layout_floor_plan": "Varies by unit - See listings",
+        "unit_features": [
+          "Downtown views",
+          "Modern kitchen",
+          "Balcony (in some units)"
+        ],
+        "photos": [],
+        "application_details": "Typically managed by individual owners or property managers, screening required",
+        "deposit_fees": {
+          "security_deposit": "Varies"
+        },
+        "utilities": {
+          "included": [
+            "Some may be included"
+          ],
+          "tenant_pays": [
+            "Electricity",
+            "Water",
+            "Sewer",
+            "Internet",
+            "Gas (if applicable)"
+          ]
+        }
+      }
+    ],
+    "lat": 30.257765,
+    "lng": -97.724588
+  }
+]
