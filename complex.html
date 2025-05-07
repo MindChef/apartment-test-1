@@ -7,6 +7,27 @@
 </head>
 <body>
   <div id="complex-info"></div>
+  <div id="filters" style="padding: 1em;">
+    <label>Min Price: <input type="number" id="min-price" /></label>
+    <label>Max Price: <input type="number" id="max-price" /></label>
+    <label>Bedrooms:
+      <select id="bedrooms">
+        <option value="">All</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+      </select>
+    </label>
+    <label>Sort by:
+      <select id="sort-by">
+        <option value="price-asc">Price ↑</option>
+        <option value="price-desc">Price ↓</option>
+        <option value="size-asc">Size ↑</option>
+        <option value="size-desc">Size ↓</option>
+      </select>
+    </label>
+    <button onclick="applyFilters()">Apply</button>
+  </div>
   <div id="unit-listings"></div>
   <script src="js/complex.js"></script>
 </body>
