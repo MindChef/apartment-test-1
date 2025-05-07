@@ -1,0 +1,24 @@
+[
+  {
+    "complex_info": {
+      "property_name": "AMLI on 2ND",
+      "address": "300 W 2nd St, Austin, TX 78701"
+    },
+    "lat": 30.2642,
+    "lng": -97.7468,
+    "available_units": [
+      {
+        "unit_identifier": "Unit 805",
+        "price": 2950,
+        "unit_type": "1 Bedroom",
+        "square_footage": 780
+      },
+      {
+        "unit_identifier": "Unit 906",
+        "price": 3100,
+        "unit_type": "2 Bedroom",
+        "square_footage": 1120
+      }
+    ]
+  }
+]
