@@ -3,9 +3,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Austin Apt Scout</title>
+    <title>Apartment Map</title>
     <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map { height: 90vh; width: 100%; }
+    </style>
 </head>
 <body>
     <header class="site-header">
@@ -14,50 +17,49 @@
             <nav>
                 <a href="index.html">Home</a>
                 <a href="map.html">Browse Listings</a>
-                <a href="#">Neighborhoods</a>
-                <a href="#">Resources</a>
-                <a href="#">Login / Sign Up</a>
             </nav>
         </div>
     </header>
+    <div id="map"></div>
 
-    <section class="hero">
-        <div class="overlay"></div>
-        <div class="hero-content">
-            <h2>Find Your Perfect Apartment in Austin</h2>
-            <p>Browse by neighborhood, budget, or amenities – all in one place.</p>
-            <form action="map.html" class="search-bar">
-                <select name="neighborhood">
-                    <option value="">Neighborhood</option>
-                    <option value="downtown">Downtown</option>
-                    <option value="east">East Austin</option>
-                </select>
-                <select name="price">
-                    <option value="">Price</option>
-                    <option value="1000-1500">$1000-$1500</option>
-                    <option value="1500-2000">$1500-$2000</option>
-                </select>
-                <select name="bedrooms">
-                    <option value="">Bedrooms</option>
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                </select>
-                <button type="submit">Search</button>
-            </form>
-        </div>
-    </section>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        // Function to parse URL query parameters
+        function getQueryParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                neighborhood: params.get("neighborhood"),
+                price: params.get("price"),
+                bedrooms: params.get("bedrooms")
+            };
+        }
 
-    <section class="how-it-works">
-        <h3>How It Works</h3>
-        <div class="steps">
-            <div><strong>1.</strong> Browse Listings</div>
-            <div><strong>2.</strong> View Unit Details</div>
-            <div><strong>3.</strong> Schedule a Tour</div>
-        </div>
-    </section>
+        const filters = getQueryParams();
 
-    <footer>
-        <p>&copy; 2025 Austin Apt Scout. All rights reserved.</p>
-    </footer>
+        fetch('data/properties.json')
+            .then(response => response.json())
+            .then(data => {
+                const map = L.map('map').setView([30.2672, -97.7431], 13);
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+                const priceRange = filters.price ? filters.price.split('-').map(Number) : null;
+
+                data.forEach(complex => {
+                    const { property_name, neighborhood, starting_price, bedroom_count } = complex.complex_info;
+
+                    // Filter logic
+                    const matchNeighborhood = !filters.neighborhood || neighborhood.toLowerCase() === filters.neighborhood.toLowerCase();
+                    const matchPrice = !priceRange || (starting_price >= priceRange[0] && starting_price <= priceRange[1]);
+                    const matchBedrooms = !filters.bedrooms || String(bedroom_count) === filters.bedrooms;
+
+                    if (matchNeighborhood && matchPrice && matchBedrooms) {
+                        const marker = L.marker([complex.lat, complex.lng]).addTo(map);
+                        marker.bindPopup(
+                            `<b>${property_name}</b><br><a href='complex.html?name=${encodeURIComponent(property_name)}'>View Units</a>`
+                        );
+                    }
+                });
+            });
+    </script>
 </body>
 </html>
